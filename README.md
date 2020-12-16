@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Headphone Zone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was designed to create a product listing for headphone shopping <br />
+ [Checkout the demo](https://headphone-product-listing-abey.web.app)
 
 ## Available Scripts
 
